@@ -1,3 +1,9 @@
+---
+title: "A Blog for developers"
+date: 2021-01-28
+---
+
+
 <h1>A Blog for developers</h1>
 <br>
 <h2>My personal journey from Automation Electrician to Web Developer</h2>
